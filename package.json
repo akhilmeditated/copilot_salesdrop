@@ -1,0 +1,21 @@
+{
+  "name": "github_salesdrops",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SalesDrops Admin panel for managing drops, tools, sponsors, and makers.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
